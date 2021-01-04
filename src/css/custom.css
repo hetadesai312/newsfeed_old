@@ -1,0 +1,52 @@
+body{
+    background-color: #242424;;
+  }
+.overlay{
+    position: absolute;
+    background-color: #212529;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+    opacity: .3;
+    background-image: url('../preview16.jpg');
+}
+
+header.masthead {
+    position: relative;
+    background-color: #343a40;
+    background: url('../preview16.jpg') no-repeat center center;
+    background-size: cover;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .custom-navlink{
+      text-decoration: none;
+      color:#fff;
+      cursor:pointer;
+  }
+
+  .custom-navlink:hover {
+      color: #fff;
+     
+  }
+  .nav-item:hover{
+      background-color: #343a40;
+  }
+  .selected{
+      border-bottom: 2px solid #0078d4;
+  }
+
+  .card{
+      background-color: #424242;
+  }
+  .no-decoration{
+    text-decoration: none;
+  }
+  .no-decoration:hover{
+    border-bottom-color: #fff !important;
+  }
+  .nav{
+      background-color: #242424;
+  }

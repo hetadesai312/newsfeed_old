@@ -1,0 +1,3 @@
+export const TOP_HEADLINES="TOP_HEADLINES";
+export const TOP_ARTICLES="TOP_ARTICLES";
+export const TRENDING="TRENDING";
